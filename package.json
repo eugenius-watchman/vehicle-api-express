@@ -1,0 +1,20 @@
+{
+  "name": "hello-api",
+  "version": "1.0.0",
+  "description": "Hello Eugenius",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugenius-watchman"
+  },
+  "author": "Eugenius Darrah-Gblorkpor <eugenius@binarystudios.org>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}
